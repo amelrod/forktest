@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mathmondays.com/sitemap.xml
+Sitemap: https://amelrod.github.io/forktest/sitemap.xml
