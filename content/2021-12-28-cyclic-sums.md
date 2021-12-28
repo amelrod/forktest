@@ -21,14 +21,14 @@ $$ \mathbb{Z}_m \oplus \mathbb{Z}_n \cong \mathbb{Z}_{mn}. $$
 
 when $n$ and $m$ are coprime. Following this, we will explore the general structure of cyclic subgroups and attempt to develop a geometric heuristic for determining the order of an element. That is, we will explain how
 
-$$ \abs{(x,y)} = \lcm(\abs{x},\abs{y}). $$
+$$ \lvert{(x,y)}\rvert = \mathop{lcm}(\lvert{x}\rvert,\lvert{y}\rvert). $$
 
 Then we will examine groups of the form
 
 $$ (\mathbb{Z}_m \oplus \mathbb{Z}_n)/ \langle x,y \rangle $$
 
-# What is a cyclic sum?
+## What is a cyclic sum?
 
-## Chinese Remainder Theorem
+# Chinese Remainder Theorem
 
-## Fundamental Theorem for Finite Abelian Groups
+# Fundamental Theorem for Finite Abelian Groups
