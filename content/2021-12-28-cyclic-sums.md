@@ -21,7 +21,7 @@ $$ \mathbb{Z}_m \oplus \mathbb{Z}_n \cong \mathbb{Z}_{mn}. $$
 
 when $n$ and $m$ are coprime. Following this, we will explore the general structure of cyclic subgroups and attempt to develop a geometric heuristic for determining the order of an element. That is, we will explain how
 
-$$ \lvert{(x,y)}\rvert = \mathop{lcm}(\lvert{x}\rvert,\lvert{y}\rvert). $$
+$$ \lvert{(x,y)}\rvert = \mathrm{lcm}\,(\lvert{x}\rvert,\lvert{y}\rvert). $$
 
 Then we will examine groups of the form
 
