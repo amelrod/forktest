@@ -9,7 +9,7 @@ SITEURL = ""
 PATH = "content"
 THEME = "theme"
 
-TIMEZONE = "America/New-York"
+TIMEZONE = "America/Los-Angeles"
 DEFAULT_LANG = "en"
 DEFAULT_DATE_FORMAT = "%B %-d, %Y"
 
