@@ -2,14 +2,14 @@
 # -*- coding: utf-8 -*- #
 
 # Basics
-AUTHOR = "Henry Swanson"
-SITENAME = "Math Mondays"
+AUTHOR = "Adam Melrod"
+SITENAME = "Test"
 SITEURL = ""
 
 PATH = "content"
 THEME = "theme"
 
-TIMEZONE = "America/Los_Angeles"
+TIMEZONE = "America/New-York"
 DEFAULT_LANG = "en"
 DEFAULT_DATE_FORMAT = "%B %-d, %Y"
 
@@ -69,10 +69,8 @@ PAGINATION_PATTERNS = (
 
 # Other
 FOOTER_LINKS = {
-    "email": "mailto:henryswanson94@gmail.com",
-    "github": "https://github.com/HenrySwanson",
-    "rss": "feed.xml",
-    "stackoverflow": "https://stackexchange.com/users/2216552/henry-swanson",
+    "email": "mailto:abmelrod@umd.edu",
+    "github": "https://github.com/amelrod",
 }
 FILENAME_METADATA = r"(?P<date>\d{4}-\d{2}-\d{2})-(?P<slug>.*)"
 SUMMARY_END_MARKER = "<!-- more -->"
