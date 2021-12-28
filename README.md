@@ -1,6 +1,6 @@
-![build status badge](https://github.com/HenrySwanson/HenrySwanson.github.io/actions/workflows/build-site.yml/badge.svg)
+![build status badge](https://github.com/amelrod/amelrod.github.io/actions/workflows/build-site.yml/badge.svg)
 
-Sometimes I like to write about math.
+Testing
 
 Fonts are used under the SIL Open Font License, and were downloaded from:
  - Alte DIN 1451: https://www.1001fonts.com/alte-din-1451-mittelschrift-font.html
