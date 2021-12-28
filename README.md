@@ -1,4 +1,4 @@
-![build status badge](https://github.com/amelrod/amelrod.github.io/actions/workflows/build-site.yml/badge.svg)
+![build status badge](https://github.com/amelrod/forktest/actions/workflows/build-site.yml/badge.svg)
 
 Testing
 
